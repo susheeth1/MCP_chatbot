@@ -1,0 +1,13 @@
+{
+  "llm": {
+    "url": "http://192.168.229.27:8000/v1/chat/completions",
+    "model_path": "/root/.cache/huggingface/",
+    "max_tokens": 10000,
+    "temperature": 0.1
+  },
+  "serper": {
+    "enabled": true,
+    "api_key": "c10d793c1a53b49a0a9271e4be76678def4caabd",
+    "url": "https://google.serper.dev/search"
+  }
+}
