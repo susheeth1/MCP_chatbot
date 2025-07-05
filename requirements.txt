@@ -1,1 +1,3 @@
 requests
+youtube-transcript-api
+trafilatura
